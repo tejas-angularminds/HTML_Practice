@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.pagination a{
+    justify-content: center;
+    background-color: red;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin-left: 5px;
+    border: 1px solid black;
+
+}
+.pagination a:hover{
+    background-color: black;
+    color: white;
+
+    
+}

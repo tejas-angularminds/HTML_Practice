@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: #121212;
+}
+.wrapper{
+
+    text-align: center;
+}
+.wrapper img{
+    width: 300px;
+    border:3px solid #121212;
+    margin-top: 30px;
+}
+.wrapper p{
+    font-style: italic;
+    margin-top:30px;
+}
+.wrapper input{
+    border: 3px solid #121212;
+    padding: 10px;
+    margin-top: 40px;
+}
+.wrapper input::placeholder{
+    text-align: center;
+    font-weight: bold;
+}
+.wrapper .btn{
+    margin-top: 10px;
+}
+.wrapper .btn button{
+    padding: 10px;
+    width: 195px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #121212;
+    color: white;
+    font-weight: bold;
+    border: 3px solid #121212;
+}
+.wrapper p a{   
+    color: #000;   
+}
